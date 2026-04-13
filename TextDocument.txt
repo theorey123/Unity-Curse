@@ -1,1 +1,1 @@
-print("Hello World")
+local players = game:GetService("Players")
